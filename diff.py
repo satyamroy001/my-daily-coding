@@ -8,3 +8,4 @@ engine.say(' this is satyam assistant jarvis now called tuesday... i am personal
 
 # run and wait method, it processes the voice commands.
 engine.runAndWait()
+#simple use of text to speech
